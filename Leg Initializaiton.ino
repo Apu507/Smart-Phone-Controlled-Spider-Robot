@@ -1,5 +1,5 @@
 // Locate the initial position of legs 
-// RegisHsu 2015-09-09
+// Apu507 2022-09-22
 
 #include <Servo.h>   
 
@@ -32,5 +32,3 @@ void loop(void)
     }
   }
 }
-
-
